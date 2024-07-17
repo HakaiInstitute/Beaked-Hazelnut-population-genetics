@@ -34,7 +34,7 @@ This repository contains the following data files:
 
 - 'file 2': SNP table containing the sample x genotype matrix
   
-- 'file 3': Table of morphological data used to acomany the genetic results
+- Hazelnut_Morphological_Data.csv: Table of morphological data used to acomany the genetic results
   
 - 'file 4': a fasta file containing the raw rbcL and matK sequences derrived from a subset of samples in this study
 
