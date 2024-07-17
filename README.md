@@ -29,13 +29,13 @@ and descriptions.
 
 This repository contains the following data files:
 
-- 'file 1': Collection metadata for all tissue samples analyzed in this study.
+1. 'file 1' - Collection metadata for all tissue samples analyzed in this study.
 
-- 'file 2': SNP table containing the sample x genotype matrix
+2.  Hazelnut_SNP_genotypes.csv - A table of SNP gentypes formatted as a sample x genotype matrix
   
-- Hazelnut_Morphological_Data.csv: Table of morphological data used to acomany the genetic results
+3. Hazelnut_Morphological_Data.csv -  Table of morphological data used to acomany the genetic results
   
-- 'file 4': a fasta file containing the raw rbcL and matK sequences derrived from a subset of samples in this study
+4.  'file 4' - a fasta file containing the raw rbcL and matK sequences derrived from a subset of samples in this study
 
-- Raw HiSeq data has been depositied at NCBI (BioProject: xxxxxxx). 
+5. Raw HiSeq data has been depositied at NCBI (BioProject: xxxxxxx). 
   
