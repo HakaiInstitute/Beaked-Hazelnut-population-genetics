@@ -4,7 +4,7 @@
     <a href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
 </div>
 
-# hakai-dataset-repository-template
+# HakaiInstitute/Beaked-Hazelnut-population-genetics
 
 Summary here
 
