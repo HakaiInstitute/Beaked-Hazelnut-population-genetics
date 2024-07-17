@@ -14,8 +14,7 @@ repository reference citation
 
 ## Method
 
-Leaf tissues for genetic analysis were harvested from live individuals between 2014–2015. Morphometric data, including tree height, branching density, surface leaf area, first year stem diameter, largest stem diameter, nut length, involucre length, involucre hairiness, and number of nuts per cluster were recorded for each shrub/tree at the time of collection.A total of 285 samples were collected. Samples were then prioritized for their quality (diseased or spoiled leaves disregarded) and their coverage (multiples disregarded), leaving the total number to 219 individual samples. The genomic DNA was extracted using the DNeasy Plant Mini kit (Qiagen). Genomic DNA was converted into nextRAD genotyping-by-
-sequencing libraries (SNPsaurus, LLC). The nextRAD libraries were sequenced on a Novaseq 6000 with two lanes of 122 bp reads (University of Oregon).
+We used e-flora distributions and local knowledge (from farmers, outdoor recreators, hunters, and Indigenous knowledge holders) to locate potential hazelnut stands throughout BC. Leaf tissues for genetic analysis were harvested from live individuals between 2014–2015. Morphometric data, including tree height, branching density, surface leaf area, first year stem diameter, largest stem diameter, nut length, involucre length, involucre hairiness, and number of nuts per cluster were recorded for each shrub/tree at the time of collection.A total of 285 samples were collected. Samples were then prioritized for their quality (diseased or spoiled leaves disregarded) and their coverage (multiples disregarded), leaving the total number to 219 individual samples. The genomic DNA was extracted using the DNeasy Plant Mini kit (Qiagen). Genomic DNA was converted into nextRAD genotyping-by-sequencing libraries (SNPsaurus, LLC). The nextRAD libraries were sequenced on a Novaseq 6000 with two lanes of 122 bp reads (University of Oregon).
 
 ## Reports
 
