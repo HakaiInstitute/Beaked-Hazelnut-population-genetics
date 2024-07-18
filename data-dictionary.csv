@@ -1,0 +1,16 @@
+﻿File_name,variable,description
+Hazelnut_Morphological_Data.csv,Sample,Unique sample ID given to each individual
+Hazelnut_Morphological_Data.csv,Branching Density (#),The number of base stems per individual root crowns
+Hazelnut_Morphological_Data.csv,1 Yr Shoot Diameter (mm),Total diameter of 1 year (green) shoots
+Hazelnut_Morphological_Data.csv,Leaf Length (mm),Total blade length from leaf apex to leaf base 
+Hazelnut_Morphological_Data.csv,Leaf Width (mm),Total blade width across widest leaf section
+Hazelnut_Morphological_Data.csv,Full Fruit Length (mm),Total length of fruit and involucre 
+Hazelnut_Morphological_Data.csv,Nut Length (mm) ,Total length of fruit (nut cob) 
+Hazelnut_Morphological_Data.csv,Involucre Length (mm),Total length of involcure beak (excluding nut) 
+Hazelnut_Morphological_Data.csv,Involucre Hariness (1/5) ,Ordinal scale for estimating involucre hairiness 
+Hazelnut_Morphological_Data.csv,Nuts per Cluster (#),Number of nuts per cluster on an individual. Highest number counted. 
+Sample_metadata.csv,sample_name,Unique sample ID given to each individual. These IDs relate to samples in the SNP table
+Sample_metadata.csv,collection_date,The year that the tissue sample was collected
+Sample_metadata.csv,geo_loc_name,The broad region where the tissue sample was collected
+Sample_metadata.csv,Location,The specific location where the tissue sample was collected. Latitude and longitute have not be released following request by local communities to withhold these data.
+Sample_metadata.csv,tissue,The type of tissue that was collected for DNA analyses
