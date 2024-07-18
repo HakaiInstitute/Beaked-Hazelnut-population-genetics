@@ -24,9 +24,6 @@ Armstrong CG, Clemente-Carvalho RBG, Turner NJ, Wickham S, Trant A, Lemay MA. Ge
 
 ## Resources
 
-See the data dictionary file for a complete description of data variables, units
-and descriptions.
-
 This repository contains the following data files:
 
 1. Sample_metadata.csv - Collection metadata for all tissue samples analyzed in this study.
@@ -37,5 +34,8 @@ This repository contains the following data files:
   
 4. Sanger_sequences.fasta.txt - a fasta file containing the raw rbcL and matK sequences derrived from a subset of samples in this study
 
-5. Raw HiSeq data has been depositied at NCBI (BioProject: xxxxxxx). 
+5. Raw HiSeq data has been depositied at NCBI (BioProject: xxxxxxx).
+
+See the data dictionary file for a complete description of data variables, units
+and descriptions.
   
