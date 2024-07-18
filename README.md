@@ -30,7 +30,7 @@ This repository contains the following data files:
 
 2. Hazelnut_SNP_genotypes.csv - A table of SNP gentypes formatted as a sample x genotype matrix
   
-3. Hazelnut_Morphological_Data.csv -  Table of morphological data used to acomany the genetic results
+3. Hazelnut_Morphological_Data.csv -  Table of morphological data used to acompany the genetic results
   
 4. Sanger_sequences.fasta.txt - a fasta file containing the raw rbcL and matK sequences derrived from a subset of samples in this study
 
