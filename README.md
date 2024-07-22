@@ -34,7 +34,8 @@ This repository contains the following data files:
   
 4. Sanger_sequences.fasta.txt - a fasta file containing the raw rbcL and matK sequences derrived from a subset of samples in this study
 
-5. Raw Illumina sequence data has been depositied at NCBI (BioProject ID: PRJNA1138710). Link to raw data: https://www.ncbi.nlm.nih.gov/bioproject/1138710
+5. Raw Illumina sequence data has been depositied at NCBI (BioProject ID: PRJNA1138710).
+   Link to raw Illumina sequence data: https://www.ncbi.nlm.nih.gov/bioproject/1138710
 
 See the data dictionary file for a complete description of data variables, units
 and descriptions.
